@@ -20,3 +20,9 @@ def mathAvg (a, b):
 
 def mathRaised (a, b):
     return a**b
+
+def mathMed (a, b, c):
+
+    sorted([a, b, c])
+
+    return b
