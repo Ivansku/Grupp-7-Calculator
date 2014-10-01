@@ -17,3 +17,6 @@ def mathDiv(a, b):
 def mathAvg (a, b):
 
     return (a + b)/2
+
+def mathRaised (a, b):
+    return a**b
