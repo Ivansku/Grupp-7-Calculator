@@ -9,3 +9,7 @@ def mathMinus(a ,b):
 def mathMulti(a, b):
 
     return a * b
+
+def mathDiv(a, b):
+
+    return a / b
