@@ -13,3 +13,7 @@ def mathMulti(a, b):
 def mathDiv(a, b):
 
     return a / b
+
+def mathAvg (a, b):
+
+    return (a + b)/2
